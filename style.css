@@ -1,0 +1,110 @@
+.flexible-container{
+    display: flex;
+    margin-bottom:50px;
+
+}
+.half-width{
+    width:50%;
+    margin-left:120px;
+    margin-top:40px;
+}
+#picture-main{
+    padding-top: 40px;
+    width:75%;
+    height: 80%;
+    
+}
+.half-width p{
+    font-family: 'Poppins', sans-serif;
+    padding-top: 20px;
+    padding-bottom: 30px;
+
+}
+#my-mission-year-color{
+    color:orange;
+
+}
+h1{
+    font-size:60px;
+    text-align:center;
+    font-family: 'Signika Negative', sans-serif;
+}
+h2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 55px;
+    weight:700px;
+}
+h3{
+    font-size: 30px;
+    font-family: 'Signika Negative', sans-serif;
+
+}
+#mission-color{
+    color: orange;
+    font-size: 70px;
+}
+.link-button{
+    text-decoration: none;
+    background-color:rgb(226, 73, 46);
+    padding: 14px 30px;
+    border-radius: 10px;
+    color:white;
+    font-weight: 1000px;
+    margin-top: 10em;
+}
+.title-line-make{
+    border-left: 6px solid red;
+    height: 180px;
+    left:2%;
+    border-radius: 5px;
+}
+.mission-container-item{
+  position: relative;
+  width:20%;
+  margin-right:10px;
+  margin-left:10px;
+  padding-left: 10px;
+  padding-right: 80px;
+  padding-bottom:60px;
+  border-radius: 40px;
+}
+
+.flexible-container{
+    display: flex;
+    margin-bottom: 130px;
+}
+.flexible-container img{
+    width: 55%;
+    height: 45%;
+}
+#mission-container{
+    background-color:#EDF5F6;
+    margin-left:120px;
+    
+}
+#vission-container{
+    background-color:#FFEEEE;
+}
+#goal-container{
+    background-color:#FFF4D6;
+    margin-right: 120px;  
+}
+#image-width{
+    height:800px;
+    width: 900px;
+
+}
+
+#footer-year{
+    color:red;
+}
+.footer-bottom-text{
+    text-align: center;
+    color:white;
+}
+footer{
+    background-color: black;
+}
+#footer-font-color{
+    color:white;
+}
